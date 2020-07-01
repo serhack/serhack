@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **serhack/serhack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<!--
+- 🔭 I’m currently working on [Mastering Monero](https://masteringmonero.com) and [Breaking Cryptocurrencies](https://breakingcryptocurrencies.me)
+- 💬 Ask me about information security, and cryptocurrencies!
+- 🌱 I usually post my thoughts on my [blog](https://serhack.me)
+- 📫 How to reach me: [email](mailto:hi@serhack.me) or Twitter 
+
 -->
