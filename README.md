@@ -11,8 +11,9 @@
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 Security Researcher and Writer
 - 🔭 I’m currently working on [Mastering Monero](https://masteringmonero.com) and [Breaking Cryptocurrencies](https://breakingcryptocurrencies.me)
 - 💬 Ask me about information security, and cryptocurrencies!
-- 🌱 I usually post my thoughts on my [blog](https://serhack.me)
-- 📫 How to reach me: [email](mailto:hi@serhack.me) or [Twitter](https://twitter.com/@serhack_) 
+- 🌱 I usually post my thoughts on my [blog](https://serhack.me) – [Tor link](https://serhackqsiawme7y6yeaead6pgxigqnivws4pqml3n5sume66g7l5fid.onion/)
+- 📫 You can reach me via [email](mailto:hi@serhack.me) or via [Twitter](https://twitter.com/@serhack_) 
 
